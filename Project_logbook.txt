@@ -1,4 +1,4 @@
 Project: Using Generative AI Tools - Boon or Bane.
-The research examines the benefits of generative AI tools.
+The research investigates both the benefits and risks of generative AI tools.
 Quantitative data will be collected through a survey.
 Qualitative data will be collected through interviews.
